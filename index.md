@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/godboyxd/the-spot/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/godboyxd/the-spot/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p style="text-align: center;"><em><strong>The spot</strong></em></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: left;">the spot is a community where people can come together and make new friends</p>
+<p style="text-align: left;">We have</p>
+<ul>
+<li style="text-align: left;">Great Staff</li>
+<li style="text-align: left;">A amazing owner</li>
+<li style="text-align: left;">Cool bots</li>
+<li style="text-align: left;">And many voice chats and channels</li>
+</ul>
+<p style="text-align: left;">&nbsp;</p>
+<p style="text-align: left;">&nbsp;</p>
+<p style="text-align: left;">Join By clicking <a href="https://discord.gg/hJBD8TG" target="_blank" rel="noopener">here</a></p>
+<p style="text-align: left;">&nbsp;</p>
+<p style="text-align: center;">Want a sneep peek</p>
+<p style="text-align: center;">look here<br /><br /></p>
+<p><iframe src="https://discordapp.com/widget?id=566307785050947584&amp;theme=dark" width="350" height="500" frameborder="0"></iframe></p>
